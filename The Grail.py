@@ -1,7 +1,7 @@
 import time
 import sys
 import random
-
+lol
 count = 0
 print("You must choose. But choose wisely. For as the True Grail will bring you life -- the False Grail will take it from you.")
 while True:
